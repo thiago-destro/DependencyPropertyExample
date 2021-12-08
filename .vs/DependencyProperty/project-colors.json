@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f32d6b15-4385-4845-ba5b-62673f0b3dee": {
+      "ProjectGuid": "f32d6b15-4385-4845-ba5b-62673f0b3dee",
+      "DisplayName": "DependencyPropertyExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
